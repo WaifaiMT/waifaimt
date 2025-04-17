@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Gilbert Gyan Addai
+# 👋 Hello, I'm Gilbert
 
 ## 💻 Software Developer | 🎨 UI/UX Designer | 🖌️ Graphic Designer | 📸 Photographer | 🎥 Videographer
 
@@ -13,8 +13,7 @@ I specialize in building efficient and scalable web applications that deliver ex
 
 - 🔭 I'm currently working on expanding my portfolio with innovative web applications
 - 🌱 I'm continuously learning new technologies and creative techniques
-- 👯 I'm looking to collaborate on open source projects and creative endeavors
-- 💬 Ask me about web development, UI/UX design, or photography tips!
+
 
 
 # 💻 Tech Stack:
