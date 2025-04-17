@@ -48,7 +48,7 @@ Beyond the digital realm, I'm passionate about photography and videography. Capt
 If you're looking for a motivated professional who can bring a unique blend of technical expertise and creative flair to your projects, let's connect!
 
 <!-- Add your social media and contact info here -->
-- LinkedIn: [Gilbert Gyan Addai](https://www.linkedin.com/in/gilbert-gyan-addai)
+- LinkedIn: [Gilbert Gyan Addai](https://www.linkedin.com/in/waifaiagg)
 <!--- Email: [your.email@example.com](mailto:your.email@example.com)
 - Portfolio: [yourdomain.com](https://yourdomain.com)
  -->
